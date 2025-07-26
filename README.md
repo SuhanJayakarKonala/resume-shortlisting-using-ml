@@ -14,12 +14,6 @@ A smart machine learning web app that analyzes resumes and predicts the most sui
 
 ---
 
-## 🚀 Demo
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/) *(Add your hosted link here if deployed)*
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 3
